@@ -1,0 +1,7 @@
+.lb-wrapper {
+    display: flex;
+    flex-direction: column;
+    background-color: royalblue;
+    min-height: 500px;    
+}
+

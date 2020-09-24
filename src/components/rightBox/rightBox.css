@@ -1,0 +1,15 @@
+.rb-wrapper {
+    background-color: slateblue;
+    min-height: 500px;  
+}
+
+.header-rb {
+    background-color: slategray;
+    margin: 10px;
+}
+
+.main-rb {
+    background-color: springgreen;
+    margin: 10px;
+    min-height: 400px;
+}

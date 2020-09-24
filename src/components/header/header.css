@@ -1,0 +1,9 @@
+.header-wrapper {
+    width: 100%;
+    height: 60px;
+    background-color: black;
+}
+.header-context {
+    text-align: center;
+    color:white;
+}
